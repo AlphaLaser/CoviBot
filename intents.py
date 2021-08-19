@@ -23,6 +23,7 @@ The term “pandemic” refers to the geographical spread of coronavirus, it is 
 The WHO recommends that masks not be worn during vigorous physical activity; Please ensure a 1-2-meter distance from others when exercising and that there is adequate ventilation.
 Antibiotics are used to treat bacterial infections; Since COVID-19 is a virus, antibiotics are not indicated for the direct treatment.
 Antibiotics are used to treat bacterial infections; Since coronavirus is a virus, antibiotics are not indicated for the direct treatment.
+What kind of a person are you to not know What is meant by covid-19 ;\n\nAnyways,\n\nCoronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 
 ''')
 
