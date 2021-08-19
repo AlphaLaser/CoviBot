@@ -1,0 +1,5 @@
+nltk==3.6.2
+streamlit==0.86.0
+sklearn==0.0
+gTTS==2.2.3
+bokeh==2.3.3
