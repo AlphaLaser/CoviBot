@@ -3,10 +3,6 @@ import chatbot
 import nltk
 nltk.download('popular', quiet=True)
 import sklearn
-import random
-import spacy
-from spacy.lang.en.stop_words import STOP_WORDS
-from string import punctuation
 from heapq import nlargest
 from PIL import Image
 from bokeh.models.widgets import Div
