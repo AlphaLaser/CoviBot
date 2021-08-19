@@ -16,13 +16,13 @@ The use of a medical mask is advised if you have respiratory symptoms (coughing 
 Seek care early if your child is having symptoms and try to avoid going to public places (workplace, schools, public transport) to prevent it spreading to others.
 At this time, there is not enough evidence to determine whether the COVID-19 virus is transmitted from a mother to her baby during pregnancy, or the potential impact this may have on the baby.
 At this time, there is not enough evidence to determine whether the coronavirus virus is transmitted from a mother to her baby during pregnancy, or the potential impact this may have on the baby.
-There are a lot of myths and misinformation about COVID-19 being shared online. Get verified facts and advice from trusted sources like your local health authority, the UN, UNICEF, WHO.
-There are a lot of myths and misinformation about coronavirus being shared online. Get verified facts and advice from trusted sources like your local health authority, the UN, UNICEF, WHO.
+There are a lot of myths and misinformation about COVID-19 being shared online ; Get verified facts and advice from trusted sources like your local health authority, the UN, UNICEF, WHO.
+There are a lot of myths and misinformation about coronavirus being shared online ; Get verified facts and advice from trusted sources like your local health authority, the UN, UNICEF, WHO.
 The term “pandemic” refers to the geographical spread of COVID-19, it is not an indication of the number of people who have been infected by the virus.
 The term “pandemic” refers to the geographical spread of coronavirus, it is not an indication of the number of people who have been infected by the virus.
-The WHO recommends that masks not be worn during vigorous physical activity. Please ensure a 1-2-meter distance from others when exercising and that there is adequate ventilation.
+The WHO recommends that masks not be worn during vigorous physical activity; Please ensure a 1-2-meter distance from others when exercising and that there is adequate ventilation.
 Antibiotics are used to treat bacterial infections; Since COVID-19 is a virus, antibiotics are not indicated for the direct treatment.
-Antibiotics are used to treat bacterial infections. Since coronavirus is a virus, antibiotics are not indicated for the direct treatment.
+Antibiotics are used to treat bacterial infections; Since coronavirus is a virus, antibiotics are not indicated for the direct treatment.
 
 ''')
 
