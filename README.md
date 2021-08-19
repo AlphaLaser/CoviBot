@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/AlphaLaser/ParaTools/blob/921a519a39912a4aa855f2b2ad15ec7c8639fcf2/images/logo.png" />
+  <img src="https://github.com/AlphaLaser/CoviBot/blob/fad6547f7f49e8d28879ba90fde1bca56d8291d4/images/logo.png" />
 </p>
 <br/>
 <br/>
@@ -19,21 +19,10 @@
 <br/>
 
 ## What it does 
+<br/>
+CoviBot is a COVID-19 based chatbot that can also provide you with the Text to Speech output of the chatbot's reply.
 
-ParaTools is an app that takes a paragraph as an input and gives you the choice to perform the following functions :
-
-(You can also enter a URL and it will extract the main text from the website) 
-
-- Convert the **text to audio** so that you can hear how it sounds
-
-- Return a User friendly **summary** of the whole paragraph
-  -  You can define what percentage of the paragraph length you want your summary to be
-  - The summary is in bulleted form for ease of view
-  
-- Provides a **chatbot** that can answer questions related to your paragraph
-
-- Provides a customisable **Pie chart** to see the most used keywords for better visualization of the topic  
-
+<br/>
 <br/>
 
 ## Installation and local hosting
@@ -81,7 +70,7 @@ python -m pip install requirements.txt
 ### 5. Run the command
 
 ```bash
-streamlit run input.py
+streamlit run app.py
 ```
 
 **It will automaticaly take you to the browser tab where you can preview the locally hosted copy of this project**
