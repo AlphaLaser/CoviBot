@@ -2,8 +2,6 @@ import streamlit as st
 import chatbot
 import nltk
 nltk.download('popular', quiet=True)
-import sklearn
-from heapq import nlargest
 from PIL import Image
 from bokeh.models.widgets import Div
 import tts
@@ -41,15 +39,15 @@ title = st.sidebar.header('Navigator 🧭')
 st.sidebar.markdown('<hr>', unsafe_allow_html=True)
 # st.sidebar.markdown('<br>', unsafe_allow_html=True)
 
-if st.sidebar.button('What it does and Usage'):
-    js = "window.open('https://light-feeling-5c3.notion.site/Usage-Guide-919d7c6ab66d41c981319b9ab8a3a137')"  # New tab or window
+if st.sidebar.button('What to ask'):
+    js = "window.open('https://light-feeling-5c3.notion.site/What-to-ask-Question-database-7111cde13ffe428faa66075aee099f29')"  # New tab or window
     # js = "window.location.href = 'https://github.com/AlphaLaser/para-tools'"  # Current tab
     html = '<img src onerror="{}">'.format(js)
     div = Div(text=html)
     st.bokeh_chart(div)
 
 if st.sidebar.button('Github'):
-    js = "window.open('https://github.com/AlphaLaser/CoviBot')"  # New tab or window
+    js = "window.open('https://github.com/AlphaLaser/para-tools')"  # New tab or window
     # js = "window.location.href = 'https://github.com/AlphaLaser/para-tools'"  # Current tab
     html = '<img src onerror="{}">'.format(js)
     div = Div(text=html)
@@ -71,7 +69,7 @@ if st.sidebar.button('Whatsapp'):
     html = '<img src onerror="{}">'.format(js)
     div = Div(text=html)
     st.bokeh_chart(div)
-logo = Image.open(r'images/logo.png')
+logo = Image.open(r'images\logo.png')
 st.image(logo)
 st.markdown('<hr>', unsafe_allow_html=True)
 tts_text = (chatbot.para_bot(intents.intents))
