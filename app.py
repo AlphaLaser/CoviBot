@@ -47,7 +47,7 @@ if st.sidebar.button('What to ask'):
     st.bokeh_chart(div)
 
 if st.sidebar.button('Github'):
-    js = "window.open('https://github.com/AlphaLaser/para-tools')"  # New tab or window
+    js = "window.open('https://github.com/AlphaLaser/CoviBot')"  # New tab or window
     # js = "window.location.href = 'https://github.com/AlphaLaser/para-tools'"  # Current tab
     html = '<img src onerror="{}">'.format(js)
     div = Div(text=html)
