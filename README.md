@@ -12,7 +12,7 @@
 
 👨‍💻 Try out the app [here](https://share.streamlit.io/alphalaser/paratools/main/input.py)
 
-📄 See [usage documentation](https://light-feeling-5c3.notion.site/Usage-documentation-919d7c6ab66d41c981319b9ab8a3a137) for full details on features and how to use  
+📄 See [Question Database](https://light-feeling-5c3.notion.site/What-to-ask-Question-database-7111cde13ffe428faa66075aee099f29) for full details on which questions have been programmed 
 
 
 
